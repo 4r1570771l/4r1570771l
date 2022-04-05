@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @4r1570771l
-- 👀 I’m interested in ...Android 
-- 🌱 I’m currently learning ...Android Development
+- 👋 Hi, I’m Wisdom_tooth
+- 👀 I’m interested in ...Python
+- 🌱 I’m currently learning ...Python
 -
 
 
